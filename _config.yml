@@ -1,0 +1,14 @@
+layout_spectrum: 0.1973260543309152
+typography_spectrum: 0.6797848560381681
+color:
+  brandStrength: 0.4706083429045975
+  lightness: 0.03854549257084727
+  saturation: 0.07241282402537763
+  rhythmicContrast: 0.4358813695143908
+  brandColors:
+    - '#170F0E'
+    - '#290418'
+    - '#505217'
+    - '#FFD372'
+    - '#FFF1AF'
+name: svet-test-5
